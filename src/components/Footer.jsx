@@ -48,7 +48,7 @@ export default function Footer() {
         </div>
 
         <div className="footer-bottom">
-          <p>&copy; 2026 Civic Services Portal. All rights reserved.</p>
+          <p>&copy; 2026 Metro-Police Services Portal. All rights reserved.</p>
           <p>Last updated: January 3, 2026</p>
         </div>
       </div>
